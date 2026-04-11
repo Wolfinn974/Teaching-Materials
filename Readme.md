@@ -54,9 +54,11 @@ This repository is not just a collection of code — it is a **toolkit for teach
 teaching-material/
 │
 ├── scratch/                 # Scratch projects and teaching material
-│   ├── projects/
-│   ├── lesson_plans/
-│   └── assets/
+│   └──project_name/
+│       ├── lesson_plans.md
+│       ├── demo/
+│       ├── starter/
+│       └── Readme.md
 │
 ├── python/                  # Python exercises and mini-projects
 │   ├── basics/

@@ -35,10 +35,10 @@ By the end of this project, students will be able to:
 
 ```text
 📁 maze/
-├── 📄 README.md           — this file
-├── 📄 lesson-plan.md      — detailed session breakdown
-├── 📁 starter/            — starting file for students
-└── 📁 demo/               — complete version (instructor only/demo only)
+├── 📄 README.md               — this file
+├── 📄 lesson-plan_bil.md      — detailed session breakdown
+├── 📁 starter/                — starting file for students
+└── 📁 demo/                   — complete version (instructor only/demo only)
 ```
 
 ---
@@ -54,7 +54,7 @@ https://scratch.mit.edu/projects/1243826183
 
 1. Open the starter project in Scratch.
 2. Follow `lesson-plan.md` session by session.
-3. Use the `/solution` folder only as a reference for instructors — do not share with students before the end.
+3. Use the `/demo` folder only as a reference for instructors — do not share with students before the end.
 
 ---
 

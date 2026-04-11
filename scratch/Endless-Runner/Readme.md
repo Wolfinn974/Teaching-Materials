@@ -35,10 +35,10 @@ By the end of this project, students will be able to:
 
 ```
 📁 endless-runner/
-├── 📄 README.md           — this file
+├── 📄 README.md               — this file
 ├── 📄 lesson-plan_bil.md      — detailed session breakdown
-├── 📁 starter/            — starting file for students
-└── 📁 demo/               — complete version (instructor only / to showcase demo)
+├── 📁 starter/                — starting file for students
+└── 📁 demo/                   — complete version (instructor only / to showcase demo)
 ```
 
 ---
